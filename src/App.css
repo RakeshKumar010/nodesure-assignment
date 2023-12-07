@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: monospace;
+}
+
+.app-main{
+    background-image: linear-gradient(to right top, #5054e4, #0090ff, #00bbff, #00dfe8, #68fdcb);
+    width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+.login-img{
+    filter: drop-shadow(1px 1px 5px black);
+
+}
